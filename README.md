@@ -15,17 +15,17 @@ Another repetitve CSS that I found was in the ninth Screenshot, it was a bit mor
 Overall, this code refractor was good prcatice in understanding how to orginazed a code and practicing how to look over it to fix a problem. This help me better under stand how Class and Id attribute work and how they can affect the CSS. I believe I cleaned up the index sheet and the CSS sheet to make it more accesible to other developers and the Horiseon marketing agency. 
 ### Screenshots
 
-![screenshot1](Develop/assets/images/Screenshot%20id%201.png)
-![screenshot2](Develop/assets/images/Screenshot%20id%202.png)
-![screenshot3](Develop/assets/images/Screenshot%20class%20footer.png)
-![screenshot4](Develop/assets/images/Screenshot%20footer%202.png)
-![screenshot5](Develop/assets/images/Screenshot%20footer%20css.png)
-![screenshot6](Develop/assets/images/Screenshot%20hidden%20comments.png)
-![screenshot7](Develop/assets/images/Screenshot%20h2%20before.png)
-![screenshot8](Develop/assets/images/Screenshot%20h2%20after.png)
-![screenshot9](Develop/assets/images/Screenshot%20right%20before.png)
-![screenshot10](Develop/assets/images/Screenshot%20right%20html.png)
-![screenshot11](Develop/assets/images/Screenshot%20right%20after.png)
+![screenshot1](/assets/images/Screenshot%20id%201.png)
+![screenshot2](/assets/images/Screenshot%20id%202.png)
+![screenshot3](/assets/images/Screenshot%20class%20footer.png)
+![screenshot4](/assets/images/Screenshot%20footer%202.png)
+![screenshot5](/assets/images/Screenshot%20footer%20css.png)
+![screenshot6](/assets/images/Screenshot%20hidden%20comments.png)
+![screenshot7](/assets/images/Screenshot%20h2%20before.png)
+![screenshot8](/assets/images/Screenshot%20h2%20after.png)
+![screenshot9](/assets/images/Screenshot%20right%20before.png)
+![screenshot10](/assets/images/Screenshot%20right%20html.png)
+![screenshot11](/assets/images/Screenshot%20right%20after.png)
 
 ### Built With
 *HTML
